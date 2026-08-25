@@ -1,0 +1,4 @@
+station_id,u,v,mu_s,a_s,c_s,phi0,initial_psi
+S1,A1,D1,2.0,0.5,0.2,0.1,0.4
+S2,A2,D2,2.0,0.5,0.2,0.1,0.4
+S_shared,M,N,2.0,0.5,0.2,0.1,0.4
